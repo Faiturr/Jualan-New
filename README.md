@@ -202,7 +202,7 @@
     </div>
   </main>
   <footer>
-    &copy; 2024 Bakso Dar Der Dor - Hubungi kami di WhatsApp: 0887 185 0109
+    &copy; 2024 Bakso Dar Der Dor - Semoga Kalian Suka Dengan Rasa Nya Yaa ,Kalau Suka Bisa beli Lagi ☺️☺️
   </footer>
 </body>
 </html>
